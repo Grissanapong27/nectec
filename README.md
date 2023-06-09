@@ -1,2 +1,16 @@
 # nectec
-ใน final version อย่าพูด "ตามมา" วิงชน 100%
+file code เวอร์ชั่นสุดท้ายอยู่ใน /final_version run ทุกตัว  
+>./carema_depth_and_color  
+>./control_smach  
+>./follow_node  
+
+run ไฟล์ speech2text.py ใน /speech2text  
+>./speech2text  
+
+ใน final version**อย่าพูด "ตามมา" วิงชน 100%**  
+  
+**ทดลองเดินตาม** ทดลองแล้วเดินดีกว่่าใน smach แต่ก็อาจชน
+>./depth_and_color  
+>./stalker2
+
+code walk.py เป็นตัวทดลองให้เดินตามคนตามระยะที่จับได้ยังไม่ได้ทดลอง RUN ระวังชน
