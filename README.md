@@ -5,7 +5,7 @@
 >./depth_and_color.py  
 >./speech_and_follow.py  
 >./stalker.py  
->cd ../
+>cd ../  
 >./speech2text.py  
   
   
