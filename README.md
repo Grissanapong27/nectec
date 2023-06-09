@@ -1,4 +1,7 @@
 # nectec
+
+**ในเหุ่นยนต์ไฟล์อยู่ที่ ~/KU_ws/src/nectec/src/speech_robot**  
+  
 file code เวอร์ชั่นสุดท้ายอยู่ใน /final_version run ทุกตัว  
 >./carema_depth_and_color  
 >./control_smach  
