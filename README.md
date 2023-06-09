@@ -1,2 +1,2 @@
 # nectec
-ใน final version อย่าพูดตามมาวิงชน 100%
+ใน final version อย่าพูด "ตามมา" วิงชน 100%
